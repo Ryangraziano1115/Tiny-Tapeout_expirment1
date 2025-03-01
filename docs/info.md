@@ -8,11 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+test truth tables
 Explain how your project works
 
 ## How to test
-
+using LEDS on to test if the truth table work in the ciricuit
 Explain how to use your project
 
 ## External hardware
